@@ -1,132 +1,129 @@
-<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
-<p>
 
 <h1 align='center'>
- <b>PROYECTO INDIVIDUAL Nº2</b>
+ <b>PI02_DataAnalytics</b>
 </h1>
  
-# <h1 align="center">**`Accidentes aéreos`**</h1>
+
 
 <p align="center">
-<img src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F09%2F15%2F16%2F13%2Fairplane-1671967_1280.jpg"  height=300>
+<img src="/Users/ssanjua/Desktop/HENRY 2023/DataScience/DATAFT10/LABS/PI_Analytics/img"  height=300>
 </p>
 
-¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
+# <h1 align="center">**`Accidentes aéreos 🚀 `**</h1>
+
+## Contexto 🛫
+
+La **seguridad aérea** es de suma importancia para prevenir accidentes y proteger a las personas y las aeronaves. Los accidentes aéreos pueden ser causados por una variedad de factores y pueden tener consecuencias devastadoras en términos de pérdidas humanas y económicas. Por esta razón, se lleva a cabo un **trabajo de investigación** en el análisis de accidentes aéreos para obtener conocimientos y mejorar la seguridad en la aviación.
+
+El análisis de datos históricos de accidentes aéreos permite identificar patrones, tendencias y factores contribuyentes que pueden ayudar a prevenir futuros accidentes. Estos datos permiten a los investigadores obtener **insights valiosos** que pueden utilizarse para mejorar la capacitación de pilotos y personal de mantenimiento, así como para mejorar el diseño y la fabricación de aviones y equipos de aviación.
+
+`En resumen, el análisis de datos de accidentes aéreos desempeña un papel fundamental en el trabajo de investigación para mejorar la seguridad aérea.`
 
 
-## **Contexto**
+## Propuesta 📝
 
-Los accidentes aéreos son eventos inesperados e indeseados que involucran aeronaves y se producen daños físicos a personas o a la propia aeronave. Un accidente aéreo puede involucrar cualquier tipo de aeronave, incluyendo aviones comerciales, aviones privados, helicópteros, planeadores y globos aerostáticos.
+El proyecto tiene como objetivo desarrollar un **`dashboard`** interactivo que permita a los usuarios explorar los datos y extraer información relevante sobre los accidentes de aviones. Además, se generará un informe completo para presentar los hallazgos obtenidos a partir del análisis de datos.
 
-Los accidentes aéreos pueden ser causados por diversos factores, como errores humanos, fallos de equipos, problemas meteorológicos, problemas de mantenimiento, fallas en la gestión del tráfico aéreo, problemas de diseño o problemas de fabricación. Y en cuanto a sus consecuencias, pueden ser tanto en términos de pérdidas humanas como económicas. 
+En el dashboard se muestran los siguientes indicadores clave de rendimiento **KPI**:
 
-Es por eso que la industria de la aviación, las autoridades reguladoras y los investigadores trabajan incansablemente para mejorar la seguridad de la aviación y prevenir futuros accidentes.
++ ▪️ Reducir en 5% la tasa de mortalidad a nivel anual.
++ ▫️ Reducir en un 8% la relación de muertes por accidentes a nivel anual.
++ ▪️ Mantener por encima del 50% los accidentes con sobrevivientes.
++ ▫️ Reducir anualmente en 10% el número de accidentes con fatalidades colaterales (en tierra).
 
-Por esto, el análisis de datos históricos de accidentes aéreos es fundamental para mejorar la seguridad de la aviación. La recopilación y el análisis sistemático de los datos de accidentes pueden ayudar a los investigadores a identificar patrones, tendencias y factores contribuyentes que podrían llevar a mejoras en la seguridad, desde ayudar a mejorar la capacitación de los pilotos y el personal de mantenimiento, así como a mejorar el diseño y la fabricación de aviones y equipos de aviación.
 
+# <h1 align="center">`🌩️ 🛫 🪂 🛩️ 🚁 🛰️ ✈️ 🛸 🛬 👩‍✈️`
 
-## **Rol a desarrollar**
-
-La **Organización de Aviación Civil Internacional (OACI)** es una organización intergubernamental que se dedica a promover la seguridad y eficiencia de la aviación civil internacional. Como parte de su misión, la OACI ha decidido llevar a cabo un proyecto de data analytics para analizar los accidentes aéreos de aviones en todo el mundo.
-
-El objetivo del proyecto es recopilar, analizar y visualizar datos relevantes sobre accidentes aéreos para identificar patrones y tendencias en la seguridad de la aviación civil. El proyecto se llevará a cabo mediante la utilización de técnicas de data analytics que usted ya conoce, para procesar y analizar datos de accidentes aéreos.
-
-Para llevar a cabo el proyecto, la OACI le proporciona los datos de accidentes de aviones, pero lo insta a usted, como parte del equipo de especialistas en data analytics, a que incluya otras fuentes de datos, como bases de datos gubernamentales, informes de la industria, informes de los medios de comunicación y otros recursos disponibles públicamente.
-
-El resultado final del proyecto será un dashboard interactivo que permita a los usuarios explorar los datos y obtener información sobre accidentes específicos, el cual deberá utilizar para presentar los hallazgos obtenidos de la información analizada.
-
-Dentro de este trabajo, con el fin de entender los datos y alinearlos con los objetivos de la organización, se le pide **visualizar** en su dashboard el siguientes KPI, junto a otros 3 adicionales que usted debe generar. 
-
-+ Reducir en 5% la tasa de mortalidad a nivel anual, siendo el número de fallecidos en los accidentes aéreos respecto al total de personas en los vuelos involucrados.
-
-*Nota: En la sección de material de apoyo se puede encontrar más información sobre los KPIs.*
-
-Se espera que el reporte y el dashboard proporcionen información valiosa a la industria de la aviación civil, los reguladores gubernamentales y otros interesados en la seguridad de la aviación. Con esta información, se podrán desarrollar medidas preventivas para reducir la incidencia de accidentes aéreos y mejorar la seguridad en la aviación civil a nivel mundial.
-
-## **Propuesta de trabajo**
+## Contenido 📊
  
- **Requerimientos de aprobación**
+#### `ETL - EDA`
 
-#### `Análisis Exploratorio de los datos` (_Exploratory Data Analysis = EDA_)
+**Limpieza de datos** 👩🏻‍💻
 
-El reporte debe incluir un resumen de estadísticas descriptivas de los datasets, análisis univariados (por ejemplo, distribución de variables numéricas), análisis bivariados (correlación entre variables numéricas y/o categóricas) y **cualquier análisis que le ayude al mejor entendimiento de los datos** (encontrar patrones, outliers y/o anomalías, entre otros). El reporte debe presentarse en un notebook (_.ipynb_) con adecuado uso de markdowns y comentarios.
-  
-_En caso de hacer uso de librerias como pandas_profiling, es indispensable acompañar los graficos con análisis propios._
+En este proyecto, se realizó un ETL junto con un EDA utilizando diversas herramientas y bibliotecas como Matplotlib, NumPy, Pandas, Seaborn y Wordcloud.
 
-#### `Dashboard`
+Durante la etapa de extracción se llevó a cabo la limpieza de datos, donde se detectaron y manejaron los valores nulos y los valores atípicos.
 
-Debe ser funcional y coherente con el análisis y la historia que vayan a relatar. **El archivo debe estar en su repositorio** (.pbix, .py o el que aplique).
+Además, se realizaron diversas transformaciones en los datos, como renombrar columnas y la eliminación de campos innecesarios, con el objetivo de mejorar la calidad y la estructura de los datos.
+
+Una vez que los datos estuvieron limpios y preparados, se procedió al Análisis Exploratorio. Durante esta etapa, se realizaron gráficos para explorar y visualizar los datos en busca de patrones, tendencias y relaciones.
+
+Se realizaron análisis comparativos en función de los años y la cantidad de accidentes, lo que permitió obtener información valiosa sobre la evolución de los accidentes a lo largo del tiempo. Esto nos permitió comprender mejor el contenido del dataset y obtener información relevante sobre los accidentes aéreos.
+
+#### `Dashboard interactivo 🎚️🎛️`
+
+En este proyecto, utilizamos **`Tableau`** para crear un conjunto de dashboards interactivos que nos ayudaron a comprender mejor los accidentes aéreos y descubrir patrones y tendencias significativas en los datos. A través de estos dashboards, pudimos contar una historia convincente y obtener insights valiosos sobre los accidentes.
+
+Se puede encontrar en este link: <a href="https://public.tableau.com/app/profile/paula.pallares/viz/PI_DA01/Dashboardmain?publish=yes">PI_DA02_paupallares</a>
+
+
 
 #### `KPIs`
 
-Se deben sugerir 3 KPIs y deben aparecer en el dashboard. Tenga en cuenta que deben tener relación con la historia que está contando. Asimismo, se espera que en la presentación explique el análisis y la funcionalidad de los KPIs sugeridos.
+1. **`KPI 1:`** 
 
-#### :warning: `Análisis` :warning:
+🔻 *Reducir en 5% tasa de mortalidad anual:* 
 
-No se calificará solamente la producción de gráficos con datos (dashboard), sino también los **análisis y conclusiones** que encuentren en ellos.
+	Muertes a bordo / Personas a bordo
+
+2. **`KPI 2:`** 
+
+🔺 *Reducir en 8% tasa de muertes por accidente anual:*
+	
+	Personas a bordo / Cantidad de accidentes
+
+3. **`KPI 3:`** 
+
+🔻 *Mantener arriba del 50% los accidentes con sobrevivientes:*
+
+	(Personas a bordo - Muertes a bordo) / Cantidad de accidentes 
+
+4. **`KPI 4:`** 
+
+🔺 *Mantener por debajo del 10% las fatalidades por accidentes colaterales:*
+	
+	Muertes colaterales / Total de muertes
+
   
-#### `Repositorio de GitHub`
+#### `Hallazgos 🕵🏻‍♀️`
 
-El repositorio debe contener un README principal donde se presente de forma general **su proyecto**. Presentar como propio el readme proporcionado por Henry será considerado como **insuficiente** para cumplir con este requerimiento.
+Durante el desarrollo de la aviación comercial, podemos observar un incremento en los accidentes y fatalidades a partir de aproximadamente 1914. Es comprensible que a medida que aumenta el número de vuelos, también se produzca un mayor número de accidentes. Entre 1918 y 1939, se conoce como la "Era de oro de la aviación", período en el cual se produjeron avances tecnológicos significativos y se despertó la fascinación mundial por la aviación. Esto resultó en un aumento en la cantidad de vuelos y, por ende, en los accidentes. Sin embargo, es interesante notar que durante este período, aunque los aviones se estrellaban, el costo en términos de vidas humanas no era tan significativo. Esto podría atribuirse a que muchos de estos vuelos eran realizados sin pasajeros, en su mayoría pruebas y desarrollos tecnológicos.
 
-### _**Desafíate y no te quedes siendo Junior, sé Junior Advanced**_
+<p align='center'>
+<img src =" SDJNAJSDNAJNDA GRAFICA" height=250>
+<p>
 
-Pensando en alcanzar tu Boom, te recomendamos incorporar los siguientes desafíos para tener un portfolio mucho más completo y competitivo:
+En la gráfica, podemos observar un drástico aumento en los accidentes después de 1940, coincidiendo con la Segunda Guerra Mundial y el subsiguiente incremento en la cantidad de vuelos debido a los avances en la aviación durante la guerra. Durante este tiempo, se construyeron numerosas aeronaves con fines militares, las cuales posteriormente se utilizaron para fines comerciales y de transporte. Con el fin de la guerra, la aviación comercial se separó de la militar y comenzó a expandirse. A partir de 1945, podemos notar una disminución en la cantidad de accidentes, pero un aumento en la cantidad de muertes por accidente. Esto tiene sentido considerando que los vuelos comerciales transportan significativamente más pasajeros que los vuelos militares.
 
-- Crear una base de datos en un motor SQL, ingestar el csv procesado y utilizarla como fuente de datos de su dashboard en Power BI (o la herramienta de visualización que utilice).
-- Redactar un reporte de análisis con base en sus dashboards e incluirlo en el readme de sus repositorios. También debe incluir el análisis y la funcionalidad de los KPIs sugeridos.
-- Ejecutar scripts de python en la herramienta de visualización de datos escogida.
-- Cruce de datos con datasets complementarios.
+Sin embargo, a partir de la década de 1990 hasta la actualidad, se observa un descenso tanto en la cantidad de accidentes como en el número de fatalidades. Esto se debe posiblemente a mejoras en seguridad, avances tecnológicos y una mayor capacitación en la industria de la aviación.
 
-<sub> Nota: la realización de uno o más de estos ítems no es intercambiable con los requerimientos mínimos establecidos en la sección anterior "Propuesta de trabajo". Empiece con esta sección una vez haya cumplido con los requerimientos mínimos, a modo de desafiarse a usted mismo y destacar frente al resto.</sub>
+Podemos observar cómo una aeronave como la DOUGLAS DC-3 que es la que más número de accidentes tiene comenzó a operar después del estallido de la Segunda Guerra Mundial. Con el desarrollo de nuevas tecnologías y avances, parece haber quedado en desuso hacia 1980, justo cuando el de Havilland Canada DHC-6 Twin Otter 300 entra en acción. Si bien el de Havilland Canada DHC-6 Twin Otter 300 ha tenido un gran número de accidentes, está lejos de alcanzar los registros de la DOUGLAS DC-3. Aunque no disponemos de datos concretos sobre la cantidad de vuelos realizados por cada aeronave, podemos afirmar que la cantidad de accidentes de la DOUGLAS DC-3 es muy superior a cualquier otra, por lo tanto, no sería recomendable utilizar dicha aeronave en la actualidad.
 
-## Fuente de datos:
-**Obligatorio:**
+<p align='center'>
+<img src =" aeronaves GRAFICA" height=250>
+<p>
 
-- Dataset principal, incluido en el repositorio del proyecto.
+En relación a los accidentes militares, estos son muy bajos en comparación con los accidentes de pasajeros, con una excepción que coincide con la Segunda Guerra Mundial, lo cual tiene mucho sentido histórico.
 
-**Complementario:**
-- [National Transportation Safety Board](https://www.ntsb.gov/safety/data/Pages/Data_Stats.aspx)
-- [Aviation Safety Network](https://aviation-safety.net/database/)
-- [Federal Aviation Administration](https://www.faa.gov/data_research/accident_incident)
-- Cualquier dataset de búsqueda propia que complemente y mejore el análisis.
+Observamos un pico extremadamente alto en el año 2001, el cual coincide con los acontecimientos del ataque a las Torres Gemelas en Estados Unidos, pero más allá de ese suceso en particular, las muertes en tierra o colaterales no son tan altas en comparación con las aereas.
 
+En cuanto a la ubicación de los accidentes, se destaca que la ruta de Moscú, Rusia, ha tenido la mayor cantidad de accidentes, lo cual concuerda con los registros de los operadores. Entre ellos, la aerolínea rusa Aeroflot presenta el mayor número de accidentes y fatalidades. Esto respalda los registros históricos que indican que Aeroflot ha tenido cinco veces más accidentes que cualquier otra aerolínea. Es llamativo el contraste significativo entre Aeroflot y el resto de las aerolíneas, ya que sus fatalidades duplican incluso a las de las fuerzas armadas.
 
+Basándonos en el análisis realizado, podemos sacar algunas **conclusiones** para este proyecto:
 
-<h1>Lo que tendremos en cuenta a la hora de evaluar:</h1>
+**`Reducción de accidentesy fatalidades:`**  El análisis revela una notable disminución en el número de accidentes de avión y fatalidades a lo largo del tiempo. A pesar del aumento en el número de vuelos y pasajeros la industria de la aviación ha logrado mejorar las medidas de seguridad y los protocolos, lo que ha resultado en una disminución en la frecuencia y gravedad de los incidentes.
 
-Serás evaluado en dos grandes áreas, ambas con igual peso entre si: `Tech` y `Soft`!
+**`Crecimiento exponencial de la industria:`** La cantidad de viajes desde 1908 se ha multiplicado a escalas gigantezcas lo que genera una industria que debe mantenerse en constante desarrollo y mejora. Los avances tecnológicos parecen haber sido un factor clave a la hora de reducir los accidentes y las fatalidades. 
 
-**Las habilidades técnicas (Tech)** para este proyecto de analytics incluyen el tipo de herramientas utilizadas para la realización de dashboard (herramientas de **Business Intelligence** y/o DataViz), elección de **gráficas pertinentes** para la representación del dato y un dashboard **efectivo** (organización, uso de filtros y criterios estéticos y de diagramación dónde se ubican los filtros y visualizaciones, títulos adecuados, estandarización de idiomas, entre otros).
-
-**Las habilidades blandas (Soft)** para este proyecto tendrán en cuenta la **puntualidad y preparación para la demo**, su **comunicación oral y storytelling**, la forma en que cuentas tu historia (¿los datos duros que presentas son **útiles** para tu audiencia?) y finalmente (esto es MUY importante) :warning:**EL ANÁLISIS**:warning: (¿brindas un contexto?, ¿haces comparaciones con otros datos?, ¿tienes conclusiones interesantes y realizas análisis no triviales?).
-
-<sub>**Spoiler**: Te vamos a dar feedback y también vamos a evaluar tu capacidad de recepción a este :stuck_out_tongue: </sub>
-
-
-## Material de apoyo
-- ¡Todos los Workshops de esta etapa serán de gran utilidad para tener un proyecto exitoso!
-- [Como hacer un EDA](https://medium.com/nerd-for-tech/how-to-do-some-basic-eda-a-guide-for-dummies-d76d9a82242c)
-- [Define your KPIs](https://medium.com/swlh/define-your-kpis-1a2072f1435)
-- [Como ejecutar scripts en power BI](https://learn.microsoft.com/es-es/power-bi/connect-data/desktop-python-scripts)
+<p align='center'>
+<img src =" CANT VUELOS GRAFICA" height=250>
+<p>
 
 
 
-## ***Recomendaciones finales***
-
-¡No debes mostrar nada de código en la exposición! Te recomendamos el workshop *From Data to Viz* para que te quede más claro la dinámica y lo que se espera de tu demo.
-
-Recordamos que seas puntuales y pruebes el correcto funcionamiento de las herramientas empleadas antes de ingresar a la meet.
-
-La **DEMO**, donde defenderás tu proyecto, se realizará el día jueves o viernes. Debes estar atent@ a tu *calendar* para ver qué día y horario te corresponde. 
-
-Tendrá una duración total máxima de 30 minutos, de los cuales **sólo 10 minutos serán para su presentación**.  Es importante que sepas **gestionar bien tu tiempo** y tengas un speech ya preparado de 10 minutos, ya que el tiempo restante será dedicado a la corrección, revisión de repositorio y feedback por parte del Henry Mentor.
-
-
-## Disclaimer
-De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulan un entorno laboral, en el cual se trabajan diversas temáticas ajustadas a la realidad. No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
+### Disclaimer
+_Los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulan un entorno laboral, en el cual se trabajan diversas temáticas ajustadas a la realidad. No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.)._
   
 <p align='center'>
-<img src ="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" height=250>
+<img src ="https://media.giphy.com/media/SA6qHijDp7Qn0KMAVP/giphy.gif" height=250>
 <p>

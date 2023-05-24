@@ -1,14 +1,10 @@
 
-<h1 align='center'>
- <b>PI02_DataAnalytics</b>
-</h1>
- 
+<div style="display: flex; align-items: center;">
+  <h1 style="margin-right: auto;"><b>🚀🚀 PI02_DataAnalytics</b></h1>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJhNzVjNGIwYWQyZmI2ODA5YWRlZThkMzFjNmEzMWM1NDM2MWIxMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3osxYc2axjCJNsCXyE/giphy.gif" height="300" style="margin-left: auto;">
+</div>
 
-<p align="center">
-<img src="https://github.com/paupallares/PI_Analytics/blob/94e8c17365cf7ab8f4986d9489c64d5bbb275583/img/analytics.png"  height=300>
-</p>
-
-# <h1 align="center">**`Accidentes aéreos 🚀🚀 `**</h1>
+# <h1 align="center">**`Accidentes aéreos 🛩️ `**</h1>
 
 ## Contexto 🛫
 

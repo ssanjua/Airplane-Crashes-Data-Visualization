@@ -8,7 +8,7 @@
 <img src="https://github.com/paupallares/PI_Analytics/blob/94e8c17365cf7ab8f4986d9489c64d5bbb275583/img/analytics.png"  height=300>
 </p>
 
-# <h1 align="center">**`Accidentes aéreos 🚀 `**</h1>
+# <h1 align="center">**`Accidentes aéreos 🚀🚀 `**</h1>
 
 ## Contexto 🛫
 

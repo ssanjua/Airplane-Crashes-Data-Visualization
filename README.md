@@ -4,9 +4,8 @@
 </h1>
  
 
-
 <p align="center">
-<img src="/Users/ssanjua/Desktop/HENRY 2023/DataScience/DATAFT10/LABS/PI_Analytics/img"  height=300>
+<img src="https://github.com/paupallares/PI_Analytics/blob/94e8c17365cf7ab8f4986d9489c64d5bbb275583/img/analytics.png"  height=300>
 </p>
 
 # <h1 align="center">**`Accidentes aéreos 🚀 `**</h1>
@@ -90,7 +89,7 @@ Se puede encontrar en este link: <a href="https://public.tableau.com/app/profile
 Durante el desarrollo de la aviación comercial, podemos observar un incremento en los accidentes y fatalidades a partir de aproximadamente 1914. Es comprensible que a medida que aumenta el número de vuelos, también se produzca un mayor número de accidentes. Entre 1918 y 1939, se conoce como la "Era de oro de la aviación", período en el cual se produjeron avances tecnológicos significativos y se despertó la fascinación mundial por la aviación. Esto resultó en un aumento en la cantidad de vuelos y, por ende, en los accidentes. Sin embargo, es interesante notar que durante este período, aunque los aviones se estrellaban, el costo en términos de vidas humanas no era tan significativo. Esto podría atribuirse a que muchos de estos vuelos eran realizados sin pasajeros, en su mayoría pruebas y desarrollos tecnológicos.
 
 <p align='center'>
-<img src =" SDJNAJSDNAJNDA GRAFICA" height=250>
+<img src ="https://github.com/paupallares/PI_Analytics/blob/94e8c17365cf7ab8f4986d9489c64d5bbb275583/img/accidentes%20vs%20fatalidades.png" height=250>
 <p>
 
 En la gráfica, podemos observar un drástico aumento en los accidentes después de 1940, coincidiendo con la Segunda Guerra Mundial y el subsiguiente incremento en la cantidad de vuelos debido a los avances en la aviación durante la guerra. Durante este tiempo, se construyeron numerosas aeronaves con fines militares, las cuales posteriormente se utilizaron para fines comerciales y de transporte. Con el fin de la guerra, la aviación comercial se separó de la militar y comenzó a expandirse. A partir de 1945, podemos notar una disminución en la cantidad de accidentes, pero un aumento en la cantidad de muertes por accidente. Esto tiene sentido considerando que los vuelos comerciales transportan significativamente más pasajeros que los vuelos militares.
@@ -100,7 +99,7 @@ Sin embargo, a partir de la década de 1990 hasta la actualidad, se observa un d
 Podemos observar cómo una aeronave como la DOUGLAS DC-3 que es la que más número de accidentes tiene comenzó a operar después del estallido de la Segunda Guerra Mundial. Con el desarrollo de nuevas tecnologías y avances, parece haber quedado en desuso hacia 1980, justo cuando el de Havilland Canada DHC-6 Twin Otter 300 entra en acción. Si bien el de Havilland Canada DHC-6 Twin Otter 300 ha tenido un gran número de accidentes, está lejos de alcanzar los registros de la DOUGLAS DC-3. Aunque no disponemos de datos concretos sobre la cantidad de vuelos realizados por cada aeronave, podemos afirmar que la cantidad de accidentes de la DOUGLAS DC-3 es muy superior a cualquier otra, por lo tanto, no sería recomendable utilizar dicha aeronave en la actualidad.
 
 <p align='center'>
-<img src =" aeronaves GRAFICA" height=250>
+<img src ="https://github.com/paupallares/PI_Analytics/blob/94e8c17365cf7ab8f4986d9489c64d5bbb275583/img/aeronaves.png" height=250>
 <p>
 
 En relación a los accidentes militares, estos son muy bajos en comparación con los accidentes de pasajeros, con una excepción que coincide con la Segunda Guerra Mundial, lo cual tiene mucho sentido histórico.
@@ -116,9 +115,8 @@ Basándonos en el análisis realizado, podemos sacar algunas **conclusiones** pa
 **`Crecimiento exponencial de la industria:`** La cantidad de viajes desde 1908 se ha multiplicado a escalas gigantezcas lo que genera una industria que debe mantenerse en constante desarrollo y mejora. Los avances tecnológicos parecen haber sido un factor clave a la hora de reducir los accidentes y las fatalidades. 
 
 <p align='center'>
-<img src =" CANT VUELOS GRAFICA" height=250>
+<img src ="https://github.com/paupallares/PI_Analytics/blob/94e8c17365cf7ab8f4986d9489c64d5bbb275583/img/vuelos%20totales.png" height=250>
 <p>
-
 
 
 ### Disclaimer

@@ -1,12 +1,29 @@
 
 <div style="display: flex; align-items: center;">
-  <h1 style="margin-right: auto;"><b>🚀🚀 PI02_DataAnalytics</b></h1>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJhNzVjNGIwYWQyZmI2ODA5YWRlZThkMzFjNmEzMWM1NDM2MWIxMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3osxYc2axjCJNsCXyE/giphy.gif" height="300" style="margin-left: auto;">
+  <h1 style="margin-right: auto;"><b>🚀🚀PI02_DataAnalytics</b></h1>
+  <div style="margin-left: auto;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJhNzVjNGIwYWQyZmI2ODA5YWRlZThkMzFjNmEzMWM1NDM2MWIxMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3osxYc2axjCJNsCXyE/giphy.gif" height="300">
+  </div>
 </div>
+
 
 # <h1 align="center">**`Accidentes aéreos 🛩️ `**</h1>
 
-## Contexto 🛫
+<hr>  
+</head>
+<body>
+  <h3>Contenidos</h3> 
+  <ul>
+    <li><a href="#context">Contexto</a></li>
+	<li><a href="#propues">Propuesta</a></li>
+    <li><a href="#etl">Limpieza</a></li>
+<li><a href="https://github.com/paupallares/PI_Analytics/blob/17f6186abd9a8a34eb62fe2ebf60eff057d08f88/ETL-EDA-AccidentesAereos.ipynb">ETL-EDA</a></li>
+    <li><a href="https://public.tableau.com/app/profile/paula.pallares/viz/PI_DA01/Dashboardmain?publish=yes">Dashboard Interactivo</a></li>
+	<li><a href="#kpis">KPI's</a></li>
+    <li><a href="#conclusion">Hallazgos</a></li>
+  </ul>
+
+<h2 id="context"> Contexto 🛫 </h2>
 
 La **seguridad aérea** es de suma importancia para prevenir accidentes y proteger a las personas y las aeronaves. Los accidentes aéreos pueden ser causados por una variedad de factores y pueden tener consecuencias devastadoras en términos de pérdidas humanas y económicas. Por esta razón, se lleva a cabo un **trabajo de investigación** en el análisis de accidentes aéreos para obtener conocimientos y mejorar la seguridad en la aviación.
 
@@ -15,7 +32,7 @@ El análisis de datos históricos de accidentes aéreos permite identificar patr
 `En resumen, el análisis de datos de accidentes aéreos desempeña un papel fundamental en el trabajo de investigación para mejorar la seguridad aérea.`
 
 
-## Propuesta 📝
+<h2 id="propues"> Propuesta 📝 </h2>
 
 El proyecto tiene como objetivo desarrollar un **`dashboard`** interactivo que permita a los usuarios explorar los datos y extraer información relevante sobre los accidentes de aviones. Además, se generará un informe completo para presentar los hallazgos obtenidos a partir del análisis de datos.
 
@@ -29,7 +46,7 @@ En el dashboard se muestran los siguientes indicadores clave de rendimiento **KP
 
 # <h1 align="center">`🌩️ 🛫 🪂 🛩️ 🚁 🛰️ ✈️ 🛸 🛬 👩‍✈️`
 
-## Contenido 📊
+<h2 id="etl">  Contenido 📊 </h2>
  
 #### `ETL - EDA`
 
@@ -53,7 +70,7 @@ Se puede encontrar en este link: <a href="https://public.tableau.com/app/profile
 
 
 
-#### `KPIs`
+<h4 id="kpis"> `KPIs`</h4>
 
 1. **`KPI 1:`** 
 
@@ -80,7 +97,7 @@ Se puede encontrar en este link: <a href="https://public.tableau.com/app/profile
 	Muertes colaterales / Total de muertes
 
   
-#### `Hallazgos 🕵🏻‍♀️`
+<h2 id="conclusion"> Hallazgos 🕵🏻‍♀️ </h2>
 
 Durante el desarrollo de la aviación comercial, podemos observar un incremento en los accidentes y fatalidades a partir de aproximadamente 1914. Es comprensible que a medida que aumenta el número de vuelos, también se produzca un mayor número de accidentes. Entre 1918 y 1939, se conoce como la "Era de oro de la aviación", período en el cual se produjeron avances tecnológicos significativos y se despertó la fascinación mundial por la aviación. Esto resultó en un aumento en la cantidad de vuelos y, por ende, en los accidentes. Sin embargo, es interesante notar que durante este período, aunque los aviones se estrellaban, el costo en términos de vidas humanas no era tan significativo. Esto podría atribuirse a que muchos de estos vuelos eran realizados sin pasajeros, en su mayoría pruebas y desarrollos tecnológicos.
 

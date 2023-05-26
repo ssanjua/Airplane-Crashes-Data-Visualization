@@ -82,7 +82,7 @@ Se puede encontrar en este link: <a href="https://public.tableau.com/app/profile
 
 🔺 *Reducir en 8% tasa de muertes por accidente anual:*
 	
-	Personas a bordo / Cantidad de accidentes
+	Muertes bordo / Cantidad de accidentes
 
 3. **`KPI 3:`** 
 
